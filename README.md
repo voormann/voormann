@@ -6,4 +6,4 @@
 
 [WordFlay](https://voormann.github.io/wordflay/) — Simple text analyzer with various metrics
 
-[CullType](https://voormann.github.io/culltype/) - Customizable typing test with included English, Norwegian, Dutch and German glossaries
+[CullType](https://voormann.github.io/culltype/) — Customizable typing test with included English, Norwegian, Dutch and German glossaries
