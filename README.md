@@ -6,4 +6,6 @@
 
 [WordFlay](https://voormann.github.io/wordflay/) — Simple text analyzer with various metrics
 
+[Non-ASCII Inspector](https://voormann.github.io/ascii/) — Lists non-ASCII characters in an excerpt with Unicode lookup
+
 [CullType](https://voormann.github.io/culltype/) — Customizable typing test with included English, Norwegian, Dutch and German glossaries
