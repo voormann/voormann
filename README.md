@@ -2,6 +2,8 @@
 
 [Argent Ball](https://www.newgrounds.com/portal/view/718762) — Precision arcade game with physics
 
+[Lottery Picker](https://voormann.github.io/lottery/) — Random lottery number picker with a strategic distribution option
+
 [Compute Shader Particles](https://voormann.github.io/particles/) — Particle simulation using a compute shader in WebGPU
 
 [Whim](https://voormann.github.io/whim/) — Random decision maker with optional seeded PRNG based on SHA256 and RC4
